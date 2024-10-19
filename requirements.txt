@@ -1,0 +1,4 @@
+requests
+python-dotenv
+github
+linkedin_api
